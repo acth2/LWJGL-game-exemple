@@ -14,35 +14,8 @@ public class UtilClass
     }
 
     public static void jump(){
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
-        PlayerY--;
+        for (i = 0; i >= 30; i++){
+            PlayerY--;
+        }
     }
 }
